@@ -1,7 +1,7 @@
 defmodule ElmCompile.Mixfile do
   use Mix.Project
 
-  @elixir_version "~> 1.7"
+  @elixir_version "~> 1.8"
   @version "0.2.0"
 
   def project do
